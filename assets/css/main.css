@@ -2931,7 +2931,7 @@ button:disabled,
 	color: rgba(255, 255, 255, 0.75);
 	background-attachment: fixed, fixed, fixed;
 	background-image: url("images/overlay2.png"), url("images/overlay3.svg"),
-	linear-gradient(45deg, #3aaad4 5%, #073592 30%, #ffff);
+	linear-gradient(45deg, #3aaad4 5%, #073592 30%, #008cf8);
 	background-position: top left, center center, center center;
 	background-size: auto, cover, cover;
 }
@@ -2941,7 +2941,7 @@ button:disabled,
 	color: rgba(255, 255, 255, 0.75);
 	background-attachment: fixed, fixed, fixed;
 	background-image: url("images/overlay2.png"), url("images/overlay3.svg"),
-	linear-gradient(45deg, #3aaad4 5%, #073592 30%, #ffff);
+	linear-gradient(45deg, #3aaad4 5%, #073592 30%, #008cf8);
 	background-position: top left, center center, center center;
 	background-size: auto, cover, cover;
 	/* background-image: url("images/overlay1.png"),
@@ -3044,7 +3044,7 @@ button:disabled,
 	color: rgba(255, 255, 255, 0.75);
 	background-attachment: fixed, fixed, fixed;
 	background-image: url("images/overlay2.png"), url("images/overlay3.svg"),
-	linear-gradient(45deg, #3aaad4 5%, #073592 30%, #ffff);
+	linear-gradient(45deg, #3aaad4 5%, #073592 30%, #008cf8);
 	background-position: top left, center center, center center;
 	background-size: auto, cover, cover;
 	overflow: hidden;
@@ -3248,7 +3248,7 @@ body.is-preload #header:after {
 	color: rgba(255, 255, 255, 0.75);
 	background-attachment: fixed, fixed, fixed;
 	background-image: url("images/overlay2.png"), url("images/overlay4.svg"),
-	linear-gradient(45deg, #3aaad4 5%, #073592 30%, #ffff);
+	linear-gradient(45deg, #3aaad4 5%, #073592 30%, #008cf8);
 	background-position: top left, center center, center center;
 	background-size: auto, cover, cover;
 	text-align: center;
